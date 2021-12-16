@@ -1,0 +1,17 @@
+{
+    "appium":
+    {
+        "capabilities":
+        {
+            "appium:deviceName": "Honor 7C",
+            "appium:platformName": "Android",
+            "appium:platformVersion": "8.0",
+            "appium:udid": "5VH9X18606G23004",
+            "appium:appPackage": "com.vkontakte.android",
+            "appium:appActivity": "com.vkontakte.android.MainActivity",
+        },
+
+        "url": "http://0.0.0.0:4723/wd/hub",
+        "implicitlyWait" : 10
+    }
+}

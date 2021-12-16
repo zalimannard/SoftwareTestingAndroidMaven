@@ -1,0 +1,15 @@
+{
+  "appium": {
+    "capabilities": {
+      "browserstack.user": "bsuser_ifLtvO",
+      "browserstack.key": "x1sFjzyT9uwzKzpqZptU",
+      "app": "bs://04f4a59348084de43273ea41b52e46156d140667",
+      "device": "Google Pixel 2",
+      "os_version": "8.0",
+      "project": "First Java Project",
+      "build": "browserstack-build-1",
+      "name": "first_test"
+    },
+    "url": "http://hub.browserstack.com/wd/hub"
+  }
+}
